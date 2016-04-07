@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The subject appears well rest, but I'm exhausted.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place to include any other types of information that you’d like to include about yourself, but I'd rather not to.
+Hate byte-wasting.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[3261@mail.muni.cz](mailto:3261@mail.muni.cz)
