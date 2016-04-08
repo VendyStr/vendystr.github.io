@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Log č. 1: Začneme dada pohádkou
+title: Log č. 1 - Začneme dada pohádkou
 ---
 
 Bylo, nebylo, ale možná bylo, ale také snad i ne - těžko říct, ale jasné je, že býti mohlo. A že co? interpunkční znaménko?
