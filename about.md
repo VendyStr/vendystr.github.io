@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: O mě
 permalink: /about/
 ---
 
-Some information about you!
+Jmenuji se Vendula :-)
 
-### More Information
+### Víc informací
 
-A place to include any other types of information that you'd like to include about yourself.
+Tohle musím dělat v rámci studia a vůbec na to nemám čas.
 
-### Kontak
+### Kontakt
 
 [444558@mail.muni.cz](mailto:444558@mail.muni.cz)
