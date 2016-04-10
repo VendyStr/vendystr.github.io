@@ -1,7 +1,7 @@
 ---
 layout: page
-title: o me
-permalink: /o me/
+title: About
+permalink: /about/
 ---
 
 Jmenuji se Vendula :-)
