@@ -1,5 +1,8 @@
-+ druhy pokus
-+layout: post
-+title: druhy pokus
-+ nevím co psát
-+...
+---
+layout: post
+title: druhy pokus - embed
+---
+
+druhy pokus
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
