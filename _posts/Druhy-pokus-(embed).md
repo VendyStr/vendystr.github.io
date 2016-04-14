@@ -1,6 +1,6 @@
 ---
 layout: post
-title: druhy pokus
+title: podruhe
 ---
 
 druhy pokus
