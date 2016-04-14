@@ -1,8 +1,6 @@
 ---
 layout: post
-title: druhy pokus - embed
+title: druhy pokus
 ---
 
 druhy pokus
-
-
