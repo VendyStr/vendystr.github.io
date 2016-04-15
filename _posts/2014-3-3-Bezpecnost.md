@@ -2,4 +2,8 @@
 layout: post
 title: Bezpečnost na netu
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ogxG3zRaxTw" frameborder="0"></iframe> 
+<a href="https://www.youtube.com/watch?v=ogxG3zRaxTw">Pro video klikni zde</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ej0mJyjbMfw" frameborder="0" allowfullscreen></iframe> 
+
+Zaujala mě společna tématika k ochraně na internetu. Myslím si, že dost lidí podceňuje bezpečnost na internetu.
