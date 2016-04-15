@@ -2,7 +2,7 @@
 layout: post
 title: Bezpečnost na netu
 ---
-<a href="https://www.youtube.com/watch?v=WMiirBYZmfQ">Pro video klikni zde</a>
+<a href="https://www.youtube.com/watch?v=QFjzFNtD_RY">Pro video klikni zde</a>
 
 Zaujala mě společna tématika k ochraně na internetu. Myslím si, že dost lidí podceňuje bezpečnost na internetu.
 
