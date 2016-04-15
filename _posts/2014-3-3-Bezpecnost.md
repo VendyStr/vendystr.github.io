@@ -6,4 +6,4 @@ title: Bezpečnost na netu
 
 Zaujala mě společna tématika k ochraně na internetu. Myslím si, že dost lidí podceňuje bezpečnost na internetu.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ej0mJyjbMfw" frameborder="0" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ogxG3zRaxTw" frameborder="0" allowfullscreen></iframe> 
