@@ -8,7 +8,7 @@ The subject appears well rest, but I'm exhausted.
 
 ### More Information
 
-** Cílovou skupinu či skupiny:
+** Cílovou skupinu či skupiny: **
 
 Hlavní cílová skupina jsou zájemci o dálkové studium na KISKu a noví dálkoví studenti KISKu.
 
