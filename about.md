@@ -19,6 +19,7 @@ Při tvorbě tohoto blogu nás vedla myšlenka ulehčit rozhodování potencion�
 __Název webu__
 
 Název: Project Gorilla
+
 Podtitul: Koncepce ‚dálkového‘ studia na KISKu aneb co Vám neřeknou před začátkem studia
 
 __Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti__
