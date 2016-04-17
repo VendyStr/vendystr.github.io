@@ -54,13 +54,13 @@ Naše obsahová strategie je vymezena níže uvedenými tématy. Prosím nezamě
   2. nezbytnost návštěv
   3. zakončení
 3. Rozpis B-čkových předmětů =>	
-    i. popis předmětu
-    ii. vhodnost pro dálkové studenty
-    iii. zakončení
+  1. popis předmětu
+  2. vhodnost pro dálkové studenty
+  3. zakončení
 4. Možnosti C-čkových předmětů =>	
-    i. popis předmětu
-    ii. vhodnost pro dálkové studenty
-    iii. zakončení
+  1. popis předmětu
+  2. vhodnost pro dálkové studenty
+  3. zakončení
 5. Akce pořádané KISKem pro studenty – jejich popis
 6. Výhody dálkového studia na KISK
 7. Nevýhody dálkového studia na KISK
