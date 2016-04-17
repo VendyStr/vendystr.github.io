@@ -14,7 +14,7 @@ Hlavní cílová skupina jsou zájemci o dálkové studium na KISKu a noví dál
 
 __Cíl webu (alespoň 280 znaků)__
 
-Při tvorbě tohoto blogu nás vedla myšlenka ulehčit rozhodování potencionálním studentům na KISKu a zároveň dát vodítko pro čerstvé studenty KISKu, kteří se potřebují zorientovat v možnostech, které obor‚ Informační technologie a knihovnictví‘ nabízí. Postupně budou na stránkách zveřejňovány poznatky z předmětů, které jsou vyučovány s poznatky, zda jsou vhodné pro dálkové studenty, což často v katalogu na ISu chybí a studenti se musí postupně sami dotazovat a zjišťovat zda jsou pro ně vhodné a za jakých podmínek.
+Při tvorbě tohoto blogu nás vedla myšlenka ulehčit rozhodování potencionálním studentům na KISKu a zároveň dát vodítko pro čerstvé studenty KISKu, kteří se potřebují zorientovat v možnostech, které obor ‚Informační technologie a knihovnictví‘ nabízí. Postupně budou na stránkách zveřejňovány poznatky z předmětů, které jsou vyučovány, s poznatky, zda jsou vhodné pro dálkové studenty, což často v katalogu na ISu chybí a studenti se musí postupně sami dotazovat a zjišťovat zda jsou pro ně vhodné a za jakých podmínek.
 
 __Název webu__
 
