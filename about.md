@@ -54,13 +54,13 @@ Naše obsahová strategie je vymezena níže uvedenými tématy. Prosím nezamě
   * nezbytnost návštěv
   * zakončení
 3. Rozpis B-čkových předmětů =>	
-  1. popis předmětu
-  2. vhodnost pro dálkové studenty
-  3. zakončení
+  * popis předmětu
+  * vhodnost pro dálkové studenty
+  * zakončení
 4. Možnosti C-čkových předmětů =>	
-  1. popis předmětu
-  2. vhodnost pro dálkové studenty
-  3. zakončení
+  * popis předmětu
+  * vhodnost pro dálkové studenty
+  * zakončení
 5. Akce pořádané KISKem pro studenty – jejich popis
 6. Výhody dálkového studia na KISK
 7. Nevýhody dálkového studia na KISK
@@ -71,6 +71,7 @@ __Strategii zveřejňování obsahu: jaké informace a jakým způsobem budete z
 - Zveřejňováno průběžně dle aktuálních možností z osobních pocitů a poznatků
 - Někdy popis, někdy vtipná fotka či postřeh z hodiny
 
-### Contact me
+### Contact us
 
 [3261@mail.muni.cz](mailto:3261@mail.muni.cz)
+[444558@mail.muni.cz](mailto:444558@mail.muni.cz)
