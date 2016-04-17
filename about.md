@@ -50,9 +50,9 @@ Naše obsahová strategie je vymezena níže uvedenými tématy. Prosím nezamě
 
 1. Představení katedry
 2. Rozpis povinných předmětů =>
-  i. popis předmětu
-  ii. nezbytnost návštěv
-  iii. zakončení
+  1. popis předmětu
+  2. nezbytnost návštěv
+  3. zakončení
 3. Rozpis B-čkových předmětů =>	
     i. popis předmětu
     ii. vhodnost pro dálkové studenty
