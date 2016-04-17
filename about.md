@@ -12,16 +12,16 @@ __Cílovou skupinu či skupiny:__
 
 Hlavní cílová skupina jsou zájemci o dálkové studium na KISKu a noví dálkoví studenti KISKu.
 
-** Cíl webu (alespoň 280 znaků)
+__Cíl webu (alespoň 280 znaků)__
 
 Při tvorbě tohoto blogu nás vedla myšlenka ulehčit rozhodování potencionálním studentům na KISKu a zároveň dát vodítko pro čerstvé studenty KISKu, kteří se potřebují zorientovat v možnostech, které obor‚ Informační technologie a knihovnictví‘ nabízí. Postupně budou na stránkách zveřejňovány poznatky z předmětů, které jsou vyučovány s poznatky, zda jsou vhodné pro dálkové studenty, což často v katalogu na ISu chybí a studenti se musí postupně sami dotazovat a zjišťovat zda jsou pro ně vhodné a za jakých podmínek.
 
-** Název webu
+__Název webu__
 
 Název: Project Gorilla
 Podtitul: Koncepce ‚dálkového‘ studia na KISKu aneb co Vám neřeknou před začátkem studia
 
-** Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti
+__Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti__
 
 - [Oficiální stránka KISKu](https://kisk.phil.muni.cz/cs)
 - [Oficiální fb stránka KISKu](https://www.facebook.com/KISK.FF.MU/)
@@ -29,22 +29,22 @@ Podtitul: Koncepce ‚dálkového‘ studia na KISKu aneb co Vám neřeknou pře
 - [Wiki knihovna KISKu](http://wiki.knihovna.cz/index.php/KISK:Hlavn%C3%AD_strana)
 - [Časopis KISKu Inflow](http://www.inflow.cz/)
 
-** Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti
+__Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti__
 
 Provedená rešerše nás nepřivedla k žádným takovým zdrojům, což je zřejmě dáno povahou KISKU, která je silně orientována online a také jeho relativně krátkou existencí.
 
-** Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně
+__Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně__
 
 - [Youtube stránka KISKu](https://www.youtube.com/channel/UC5u725Llbktp4DprixNx63A)
 - [Vimeo stránka KISKu](https://vimeo.com/kisk)
 - [Slideshare stránka KISKu](http://www.slideshare.net/KISK/)
 
-** Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)
+__Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)__
 
 Plánujeme minimalistický design s důrazem na informační obsah formou blogových příspěvků. Záměrně se nebudeme držet designových prvků KISK, protože se v našem případě nejedná o oficiální zdroj informací a nesmíme tak uvádět čtenáře v omyl.
 Našim vzorem je stávající design veřejných stránek v default nasazení Jekyll, který pro naše potřeby plně vyhovuje.
 
-** Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
+__Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)__
 
 Naše obsahová strategie je vymezena níže uvedenými tématy. Prosím nezaměňovat v bodech vypsanou obsahovou strategii s informační architekturou. Informační architektura bude vycházet z koncepce blogu. Pro snadnou navigaci mezi tématy plánujeme použít tagování a kategorie v kombinaci s wordcloudem, což nám pro tento mini projekt připadá jako nejvhodnější koncepce, která nám navíc umožní snadno reagovat na případný růst obsahu.
 
@@ -66,7 +66,7 @@ Naše obsahová strategie je vymezena níže uvedenými tématy. Prosím nezamě
 7. Nevýhody dálkového studia na KISK
 8. Přístup přednášejících k dálkařům
 
-** Strategii zveřejňování obsahu: jaké informace a jakým způsobem budete zveřejňovat?
+__Strategii zveřejňování obsahu: jaké informace a jakým způsobem budete zveřejňovat?__
 
 - Zveřejňováno průběžně dle aktuálních možností z osobních pocitů a poznatků
 - Někdy popis, někdy vtipná fotka či postřeh z hodiny
