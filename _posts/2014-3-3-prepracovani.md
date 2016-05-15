@@ -28,3 +28,6 @@ Těšíte se na 1. semestr? Vážně?! A víte, na co se musíte připravit?
 <p><i>Oficiální popis:</i>Postupová zkouška je kontrolní zkouškou završující první rok studia. Je prerekvizitou k předmětům třetího a čtvrtého semestru. </p>
 <p><i>Názor dálkaře: </i>Zatím mám nachystané podklady, tak těžko říct, co z toho nakonec vyleze. </p>
 
+Zdroje informací: 
+1. https://kisk.phil.muni.cz/cs
+2. http://www.phil.muni.cz/wff
