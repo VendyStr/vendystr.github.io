@@ -29,5 +29,5 @@ Těšíte se na 1. semestr? Vážně?! A víte, na co se musíte připravit?
 <p><i>Názor dálkaře: </i>Zatím mám nachystané podklady, tak těžko říct, co z toho nakonec vyleze. </p>
 
 Zdroje informací: 
-1. https://kisk.phil.muni.cz/cs
-2. http://www.phil.muni.cz/wff
+<a href="https://kisk.phil.muni.cz/cs">1. Stránky KISKu </a>
+<a href="http://www.phil.muni.cz/wff>2. Stránky FF MUNI </a>
