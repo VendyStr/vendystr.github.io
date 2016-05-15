@@ -2,7 +2,7 @@
 layout: post
 title: Bezpečnost na netu
 ---
-<img src="images/radost.gif" alt="pokus">
+<img src="images/pokus.png" alt="pokus">
 
 Zaujala mě společna tématika k ochraně na internetu. Myslím si, že dost lidí podceňuje bezpečnost na internetu. 
 
