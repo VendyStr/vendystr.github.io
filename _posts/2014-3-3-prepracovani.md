@@ -6,7 +6,7 @@
 ## Průchod 1. semestrem
 Těšíte se na 1. semestr? Vážně?! A víte, na co se musíte připravit?
 
-<img src="/images/CoToJe.gif" alt="CO">
+<img src="/images/radost.gif" alt="CO">
 
 <h2>VIKBA06 Informační věda 2</h2>
 <p><i>Oficiální popis:</i>Přímo navazuje na předmět VIKBA01 Informační věda 1. Objasňuje podstatu, smysl, základy, terminologii, dosavadní vývoj, aktuální stav a další možný vývoj vědního a studijního oboru informační věda. </p>
