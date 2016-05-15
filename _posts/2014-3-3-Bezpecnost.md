@@ -2,7 +2,7 @@
 layout: post
 title: Bezpečnost na netu
 ---
-<a href="https://www.youtube.com/embed/WMiirBYZmfQ">Pro video klikni zde</a>
+<a href="http://www.hejbatka.cz/gif/1631">Pro video klikni zde</a>
 
 Zaujala mě společna tématika k ochraně na internetu. Myslím si, že dost lidí podceňuje bezpečnost na internetu. 
 
