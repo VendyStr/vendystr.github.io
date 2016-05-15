@@ -27,7 +27,9 @@ Těšíte se na 1. semestr? Vážně?! A víte, na co se musíte připravit?
 <h2>VIK_PoZ Postupová zkouška</h2>
 <p><i>Oficiální popis:</i>Postupová zkouška je kontrolní zkouškou završující první rok studia. Je prerekvizitou k předmětům třetího a čtvrtého semestru. </p>
 <p><i>Názor dálkaře: </i>Zatím mám nachystané podklady, tak těžko říct, co z toho nakonec vyleze. </p>
-
-Zdroje informací: 
+<p></p>
+<p></p>
+<p></p>
+<p><u>Zdroje informací: </u></p>
 <p><a href="https://kisk.phil.muni.cz/cs">1. Stránky KISKu </a></p>
 <p><a href="http://www.phil.muni.cz/wff">2. Stránky FF MUNI </a></p>
